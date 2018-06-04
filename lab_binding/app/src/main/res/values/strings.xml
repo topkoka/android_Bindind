@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">lab_binding</string>
+    <string name="tvhelloworld">Hello World! DataBinding</string>
 </resources>
